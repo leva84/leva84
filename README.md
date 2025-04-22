@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Codewars](https://github.r2v.ch/codewars?user=Leva8426&stroke=%23BB432C%29)
+### ![Codewars](https://github.r2v.ch/codewars?user=Leva8426&stroke=%23BB432C%29)
 
 <!--
 **leva84/leva84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
